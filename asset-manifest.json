@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Backpackd-Frontend/static/css/main.f0c2cc9b.chunk.css",
+    "main.js": "/Backpackd-Frontend/static/js/main.b9cc6c34.chunk.js",
+    "main.js.map": "/Backpackd-Frontend/static/js/main.b9cc6c34.chunk.js.map",
+    "runtime-main.js": "/Backpackd-Frontend/static/js/runtime-main.2cdc86da.js",
+    "runtime-main.js.map": "/Backpackd-Frontend/static/js/runtime-main.2cdc86da.js.map",
+    "static/js/2.be5eba5b.chunk.js": "/Backpackd-Frontend/static/js/2.be5eba5b.chunk.js",
+    "static/js/2.be5eba5b.chunk.js.map": "/Backpackd-Frontend/static/js/2.be5eba5b.chunk.js.map",
+    "index.html": "/Backpackd-Frontend/index.html",
+    "precache-manifest.1ede64fe7684d365b1e3e1fae398460b.js": "/Backpackd-Frontend/precache-manifest.1ede64fe7684d365b1e3e1fae398460b.js",
+    "service-worker.js": "/Backpackd-Frontend/service-worker.js",
+    "static/css/main.f0c2cc9b.chunk.css.map": "/Backpackd-Frontend/static/css/main.f0c2cc9b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cdc86da.js",
+    "static/js/2.be5eba5b.chunk.js",
+    "static/css/main.f0c2cc9b.chunk.css",
+    "static/js/main.b9cc6c34.chunk.js"
+  ]
+}
