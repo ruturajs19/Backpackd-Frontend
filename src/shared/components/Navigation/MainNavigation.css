@@ -22,8 +22,9 @@
 }
 
 .main-navigation__title a {
+  text-transform: uppercase;
   text-decoration: none;
-  color: white;
+  color:#0088f8;
 }
 
 .main-navigation__header-nav {
