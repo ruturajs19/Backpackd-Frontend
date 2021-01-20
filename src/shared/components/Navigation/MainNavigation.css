@@ -22,7 +22,7 @@
 }
 
 .main-navigation__title a {
-  text-transform: uppercase;
+  font-family: "Chalkduster", fantasy;
   text-decoration: none;
   color:#0088f8;
 }

@@ -17,5 +17,8 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_BACKPACKD }}'
           channelId: live
           projectId: backpackd
+      - run: npm ci
+      - run: npm run build --if-present
+      - run: npm test
         env:
           FIREBASE_CLI_PREVIEWS: hostingchannels
