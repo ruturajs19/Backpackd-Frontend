@@ -1,6 +1,6 @@
 {
-  "homepage": "https://ruturajs19.github.io/backpackd/",
-  "name": "backpackd",
+  "homepage": "https://ruturajs19.github.io/backpackd-frontend/",
+  "name": "backpackd-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
