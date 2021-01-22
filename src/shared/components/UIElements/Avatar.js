@@ -1,10 +1,14 @@
-import React from 'react';
+import React from "react";
 
-import './Avatar.css';
+import "./Avatar.css";
 
-const Avatar = props => {
+const Avatar = (props) => {
   return (
-    <div data-test={`avatar-container-${props.name}`} className={`avatar ${props.className}`} style={props.style}>
+    <div
+      data-test={`avatar-container-${props.name}`}
+      className={`avatar ${props.className}`}
+      style={props.style}
+    >
       <img
         data-test={`avatar-image-${props.name}`}
         src={props.image}
