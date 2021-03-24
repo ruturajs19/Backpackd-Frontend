@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/backpackd-frontend/static/css/main.f0c2cc9b.chunk.css",
-    "main.js": "/backpackd-frontend/static/js/main.b947a613.chunk.js",
-    "main.js.map": "/backpackd-frontend/static/js/main.b947a613.chunk.js.map",
+    "main.js": "/backpackd-frontend/static/js/main.d78c340c.chunk.js",
+    "main.js.map": "/backpackd-frontend/static/js/main.d78c340c.chunk.js.map",
     "runtime-main.js": "/backpackd-frontend/static/js/runtime-main.ba9fbd4a.js",
     "runtime-main.js.map": "/backpackd-frontend/static/js/runtime-main.ba9fbd4a.js.map",
     "static/js/2.b6971a08.chunk.js": "/backpackd-frontend/static/js/2.b6971a08.chunk.js",
     "static/js/2.b6971a08.chunk.js.map": "/backpackd-frontend/static/js/2.b6971a08.chunk.js.map",
     "index.html": "/backpackd-frontend/index.html",
-    "precache-manifest.02dd8c801eccce4c877f0acfc2f8967d.js": "/backpackd-frontend/precache-manifest.02dd8c801eccce4c877f0acfc2f8967d.js",
+    "precache-manifest.23a1cc69372f6fa091e2577f94a7189f.js": "/backpackd-frontend/precache-manifest.23a1cc69372f6fa091e2577f94a7189f.js",
     "service-worker.js": "/backpackd-frontend/service-worker.js",
     "static/css/main.f0c2cc9b.chunk.css.map": "/backpackd-frontend/static/css/main.f0c2cc9b.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.ba9fbd4a.js",
     "static/js/2.b6971a08.chunk.js",
     "static/css/main.f0c2cc9b.chunk.css",
-    "static/js/main.b947a613.chunk.js"
+    "static/js/main.d78c340c.chunk.js"
   ]
 }
