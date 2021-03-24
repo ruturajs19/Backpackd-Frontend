@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "750d439265f1e634dcfe210f74da20db",
+    "revision": "0d1da2d72b17ef9a8f9d2a1fee33ae64",
     "url": "/backpackd-frontend/index.html"
   },
   {
